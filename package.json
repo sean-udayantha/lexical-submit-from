@@ -1,0 +1,30 @@
+{
+  "name": "lexical-rich-text-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@lexical/react": "0.10.0",
+    "@mui/material": "^5.12.3",
+    "lexical": "0.10.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
